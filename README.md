@@ -6,19 +6,6 @@ A modular toolkit for preprocessing, organizing, and classifying confidential tu
 
 ---
 
-## 📁 Repository Structure
-
-```
-tumor-image-analysis/
-├── 2_train_cnn_model.py          # CNN model: patient-aware data split + training pipeline
-├── 3_organize_train_val.py       # Class-based folder structure reorganization (train/val)
-├── 5_logreg_random_split.py      # Logistic Regression on grayscale images with confusion matrix & visual analysis
-├── README.md
-└── (no image data included ❌)
-```
-
----
-
 ## 🔹 `2_train_cnn_model.py` – CNN-Based Classification
 
 This script:
